@@ -1,11 +1,16 @@
 {
-    "name": "monolog/monolog",
+    "name": "yaoshanliang/monolog",
     "description": "Sends your logs to files, sockets, inboxes, databases and various web services",
     "keywords": ["log", "logging", "psr-3"],
-    "homepage": "http://github.com/Seldaek/monolog",
+    "homepage": "https://github.com/yaoshanliang/monolog",
     "type": "library",
     "license": "MIT",
     "authors": [
+        {
+            "name": "iat",
+            "email": "i@iat.net.cn",
+            "homepage": "http://iat.net.cn"
+        },
         {
             "name": "Jordi Boggiano",
             "email": "j.boggiano@seld.be",
